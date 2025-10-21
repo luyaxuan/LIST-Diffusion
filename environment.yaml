@@ -1,0 +1,29 @@
+name: LISt-Diffusion
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+  - cudatoolkit=11.1
+  - pytorch=1.8.1
+  - torchvision=0.9.1
+  - numpy=1.19.2
+  - pip:
+    - albumentations==0.4.3
+    - opencv-python==4.1.2.30
+    - pudb==2019.2
+    - imageio==2.9.0
+    - imageio-ffmpeg==0.4.2
+    - pytorch-lightning==1.4.2
+    - omegaconf==2.1.1
+    - test-tube>=0.7.5
+    - streamlit>=0.73.1
+    - einops==0.3.0
+    - torch-fidelity==0.3.0
+    - transformers==4.3.1
+    - pillow==8.4.0
+    - scipy==1.5.4
+    - tqdm==4.64.0
+    - matplotlib==3.3.4
+    - pandas==1.1.5
