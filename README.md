@@ -80,7 +80,7 @@ If you find this work useful, please cite:
 ```
 @inproceedings{lu2025listdiffusion,
   title={LIST-Diffusion: LLM-enhanced Interpretable Structured Text-driven Diffusion Model for Abnormal Traffic Situation Generation},
-  author={Lu, Yaxuan and ...},
+  author={Yaxuan Lu, Guangyu Huo*, Xiaohui Cui, Boyue Wang, Yong Zhang, Zhiyong Cui},
   booktitle={...},
   year={2025}
 }
